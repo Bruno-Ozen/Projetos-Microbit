@@ -1,0 +1,4 @@
+Um temporizador simples para o Micro:bit. Pressione o botão A para começar a contar. Cada posição do ponteiro do
+relógio, que são no total 8, é um segundo, dando um retorno visual e auditivo, sendo o segundo as 8 notas da escala
+de Do (um som para cada posição do relógio). Pressione o botão B para encerrar a contagem, que o Micro:bit mostrará
+quanto tempo passou entre pressionar o botão A e o botão B, em segundos.

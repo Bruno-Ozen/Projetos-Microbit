@@ -1,0 +1,3 @@
+Um jogo de Tetris simples com 2 blocos: O bloco L pequeno e o Stick. Pressione A + B para iniciar o jogo.
+O botão A move a peça para a esquerda, e o botão B move para direita. Choaqualhar o Microbit ou pressionar A + B
+rotaciona o bloco. O jogo também conta com trilha sonora de Korobeiniki, o tema original do Tetris.
